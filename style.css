@@ -4,7 +4,3 @@ grid {
     flex-wrap: wrap;
     aspect-ratio: 1 / 1;
 }
-
-div {
-    flex: 1 1 6.25%; /* 6.25 represents 1/16 of the space for the top row of a 16*16 grid*/
-}
